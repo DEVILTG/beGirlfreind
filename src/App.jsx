@@ -91,7 +91,7 @@ const Footer = () => {
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
       target="__blank"
     >
-      Made for Ynnaaa{" "}
+      Made With {" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
